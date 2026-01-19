@@ -1,11 +1,15 @@
 /multer/node_modules
 /multer/package-lock.json
+/multer/.env
 
 /nodejs/node_modules
 /nodejs/package-lock.json
+/multer/.env
 
 /nodejs2/node_modules
 /nodejs2/package-lock.json
+/nodejs2/.env
 
 /nodemailer/node_modules
 /nodemailer/package-lock.json
+/nodemailer/.env
