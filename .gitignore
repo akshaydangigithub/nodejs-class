@@ -1,0 +1,11 @@
+/multer/node_modules
+/multer/package-lock.json
+
+/nodejs/node_modules
+/nodejs/package-lock.json
+
+/nodejs2/node_modules
+/nodejs2/package-lock.json
+
+/nodemailer/node_modules
+/nodemailer/package-lock.json
